@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:key="editTextPref1" android:title="@string/dest_address" android:summary="@string/sum_pref_dest_address"/>
+    <EditTextPreference android:key="editTextPref2" android:title="@string/regza_pwd" android:summary="@string/sum_pref_regza_pwd"/>
+    
+
+</PreferenceScreen>

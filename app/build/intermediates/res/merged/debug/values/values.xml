@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">REGZA REC Timer</string>
+    <string name="back">BACK</string>
+    <string name="clear">CLEAR</string>
+    <string name="colon">:</string>
+    <string name="dest_address">Destination Address</string>
+    <string name="end_time">END TIME:</string>
+    <string name="hello">Hello World, RegzaRecTimerActivity!</string>
+    <string name="label_date">DATE:</string>
+    <string name="regza_pwd">Regza Password</string>
+    <string name="reservation_settings">Reservation settings</string>
+    <string name="send_mail">Send to Email</string>
+    <string name="settings">settings</string>
+    <string name="slash">/</string>
+    <string name="start_time">START TIME:</string>
+    <string name="sum_pref_dest_address">This is destination address for video recording timer.</string>
+    <string name="sum_pref_regza_pwd">This is regzas password.</string>
+    <string name="tv_program_title">TITLE:</string>
+</resources>

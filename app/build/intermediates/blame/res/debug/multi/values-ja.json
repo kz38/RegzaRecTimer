@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 47,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 47,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 47,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 42,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 42,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 48,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 43,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 43,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 47,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 47,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 56,
+                    "endOffset": 387
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 56,
+                        "endOffset": 655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 392,
+                    "endColumn": 46,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 46,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 39,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 39,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 44,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 44,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 69,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 69,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 60,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 60,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 50,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\RegzaRecTimer\\app\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 50,
+                        "endOffset": 707
+                    }
+                }
+            }
+        ]
+    }
+]
